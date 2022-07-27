@@ -19,3 +19,20 @@ Additionally it is possible to fork the repository and use Github Pages as hosti
 Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
 
 Enjoy!
+
+### Contact Us
+<form
+  action="https://formspree.io/f/xrgjnwwj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
