@@ -34,6 +34,6 @@ Enjoy!
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <input type="hidden" name="_next" value="http://www.cnn.com/" />
+  <input type="hidden" name="_next" value="//www.cnn.com/" />
   <button type="submit">Send</button>
 </form>
